@@ -1,0 +1,88 @@
+.column{
+    background-color: orange;
+    
+}
+.Food{
+    padding: 50px ;
+    height: 80px;
+    float: left;
+    font-size: 25px;
+    font-weight:bold ;
+    color:black;
+    padding-top: 10px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin: 30px;;
+    padding: px;
+    width: 30px;
+    float: right;
+    font-size: 50px;
+    
+}
+nav ul li a{
+    font-size: medium;
+    color: #000;
+    font-style: sans-serif;
+    text-decoration: none;
+    display: inline;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: -150px;
+}
+.sign{
+    float:right;
+    /* margin-top: 20px;
+    margin-left: ; */
+
+}
+.Delivery{
+    margin-bottom: 0%;
+    padding: 10%;
+    font-size: xx-large;
+    margin-left: -4%;
+    font-size: 30px;
+    display: inline-;
+
+}  
+.of{
+    color:black;
+    background-color: orangered;
+    font-size: medium;
+    
+    }
+.im{
+    margin-left: 60%;
+    border-radius: 20%;
+    margin-bottom: 30%;
+    
+}
+.what{
+    margin-top: 30%;
+    margin-left: 40%;
+    color: orangered;
+}
+.fav{
+    margin-left: 40%;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+.cartoons{
+    display: flex;
+}
+.order{
+    margin-left: 6%;
+}
+
+.ease{
+    margin-left: 20%;
+    padding-bottom: 4%;
+}
+.fd{
+    margin-left: 35%;
+}
+.bq{
+    margin-left: 35%;
+}
